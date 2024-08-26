@@ -31,7 +31,4 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaonary-74&theme=radical" alt="Jaonary's GitHub Contribution"/>
   </a>
 </p> 
-<p align="center">
-  <a href="https://github.com/jaonary-74">
- <img align="center" src="https://github-profile-trophy.vercel.app/?username=jaonary-74&row=4&column=4&margin-w=15&margin-h=15&no-frame=true&theme=flat"  alt="jaonary-74" />  </a>
-</p> 
+
